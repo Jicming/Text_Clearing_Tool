@@ -1,0 +1,2 @@
+# Text_Clearing_Tool
+对电脑上指定目录的txt文件进行清理
